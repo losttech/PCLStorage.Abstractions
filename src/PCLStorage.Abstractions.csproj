@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.4</TargetFramework>
+    <RootNamespace>PCLStorage</RootNamespace>
+    <Version>1.0.2</Version>
+    <Authors>Daniel Plaisted, Victor Milovanov</Authors>
+    <Company />
+    <PackageLicenseUrl>https://github.com/losttech/PCLStorage.Abstractions/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/losttech/PCLStorage.Abstractions</PackageProjectUrl>
+    <AssemblyVersion>1.0.2</AssemblyVersion>
+    <FileVersion>1.0.2</FileVersion>
+    <RepositoryType>https://github.com/losttech/PCLStorage.Abstractions.git</RepositoryType>
+    <Description>This library only contains interfaces. No implementations are provided.
+
+PCL Storage provides a consistent, portable set of local file IO APIs for .NET, Windows Phone, Windows Store, Xamarin.iOS, Xamarin.Android, and Silverlight.  This makes it easier to create cross-platform .NET libraries and apps.</Description>
+    <PackageTags>io storage file dotnet</PackageTags>
+    <PackageReleaseNotes>Releasing abstractions as a separate .NET Standard-compatible library</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Properties\" />
+  </ItemGroup>
+
+</Project>

@@ -1,4 +1,11 @@
 # PCL Storage
+## In-development
+
+This is an in-progress port of https://github.com/dsplaisted/PCLStorage to
+.NET Standard. Documentation below mostly applies to the original project,
+while this project only provides core abstraction library.
+
+## Description
 
 ![PCL Storage](https://dsplaisted.blob.core.windows.net/oss/pickles_64.png)
 
