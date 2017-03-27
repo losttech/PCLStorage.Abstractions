@@ -18,6 +18,9 @@ PCL Storage provides a consistent, portable set of local file IO APIs for .NET, 
     <Summary>File system abstraction, .NET Standard-based.</Summary>
     <PackageTags>io storage file dotnet</PackageTags>
     <PackageReleaseNotes>Releasing abstractions as a separate .NET Standard-compatible library. There's no implementation yet!</PackageReleaseNotes>
+    <SignAssembly>True</SignAssembly>
+    <DelaySign>False</DelaySign>
+    <AssemblyOriginatorKeyFile>..\common\strongnamekey.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
 </Project>
