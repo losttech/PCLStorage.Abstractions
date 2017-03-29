@@ -4,6 +4,7 @@
     <TargetFramework>netstandard1.0</TargetFramework>
     <RootNamespace>PCLStorage</RootNamespace>
     <VersionPrefix>1.0.4</VersionPrefix>
+    <AssemblyVersion>1</AssemblyVersion>
     <Authors>Daniel Plaisted, Victor Milovanov</Authors>
     <Product>PCLStorage</Product>
     <PackageLicenseUrl>https://github.com/losttech/PCLStorage.Abstractions/blob/master/LICENSE</PackageLicenseUrl>
